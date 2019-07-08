@@ -9,3 +9,14 @@ Predicts using these four models:
 * Support Vector Machines
 * K-Neighbors Classifier
 * Quadratic Analysis Classifier
+
+## Instructions for use
+If you already have python and Scikit Learn already installed, just open your preferred command line in the folder and type
+
+```
+python predic.py
+```
+To install Scikit-Learn just type on your command line
+```
+pip install scikit-learn
+```
