@@ -20,3 +20,4 @@ To install Scikit-Learn just type on your command line
 ```
 pip install scikit-learn
 ```
+And run normally, as shown above.
