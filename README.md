@@ -11,7 +11,7 @@ Predicts using these four models:
 * Quadratic Analysis Classifier
 
 ## Instructions for use
-If you already have python and Scikit Learn already installed, just open your preferred command line in the folder and type
+If you already have Python and Scikit Learn already installed, just open your preferred command line in the folder and type
 
 ```
 python predic.py
